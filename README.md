@@ -2,6 +2,8 @@
 
 pickups, healt, itemcharge
 
-# Pattern merger
+**THIS SOFTWARE IS FOR EDUCATIONAL PURPOSE ONLY!**
+
+## Pattern merger
 
 https://github.com/varpeti/patternmerger
